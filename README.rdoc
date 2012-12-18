@@ -1,6 +1,6 @@
 = holster
 
-Description goes here.
+ActionMailer expansion for integration with the MailGun API
 
 == Contributing to holster
  
